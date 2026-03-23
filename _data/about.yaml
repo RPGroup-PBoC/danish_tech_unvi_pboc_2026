@@ -1,0 +1,69 @@
+title: >
+  Physical Biology of the Cell
+
+Summary: >
+  Biology has been revolutionized by experimental techniques that have made
+  it possible to quantitatively query the inner workings of molecules, cells and
+  multicellular organisms in ways that were previously unimaginable. The
+  objective of this short, intensive course is to respond to this deluge of quantitative data through quantitative models and the use of biological numeracy.
+  The course will explore the description of a broad array of topics from
+  modern biology using the language of physics, mathematics and computation. One style of thinking we will emphasize imagines the kinds of simple
+  calculations that one can do with a stick in the sand.
+  The course draws examples from across modern biology, including cell
+  biology (signaling, regulation, and motility), physiology and metabolism,
+  developmental biology (patterning of body plans and the control of organelle
+  and tissue size and number), neuroscience (action potentials and ion channel
+  gating), and all the way to biology at the planetary scale. These examples
+  are used to develop theoretical models that make precise, testable predictions
+  about living systems. Those predictions are then tested through hands-on
+  analysis of experimental data and through numerical simulations performed
+  using Python. Quantitative biology will be introduced as an exciting new tool to complement other approaches within biology such as genetics, genomics and
+  structural biology. The course will introduce students to the enabling power
+  of biological numeracy in scientific discovery and enable them to use these
+  tools in their own future research. Note that no previous coding or advanced math skills are required. The course is designed with the objective of being widely accessible.
+
+Course project: >
+  During the course, we will do many estimates about each biological phenomenon we address. To cement these skills, throughout the week, you will
+  work on a short estimate individually or in groups. The idea is to present
+  an interesting calculation about a biological phenomenon in the style of a
+  vignette of Cell Biology by the Numbers. Some examples of interesting
+  estimates are "How many proteins are in a viral capsid?", "What is the energy cost to a host cell in order to create a new virus
+  after it has been infected?", "What is the cell-to-cell variability in the number of copies of the lacZ gene?", "What is the largest osmotic shock a cell can suffer without bursting?".
+  Alternatively, you can write an estimate outside of biology. Some of our favorite examples are “MythBusters, Rapunzel”, where the student estimated
+  how much weight Rapunzel’s hair could support and whether it could grow
+  long enough, and “Cry me a River”, where the student estimated the total
+  volume he had cried due to breakups over his life.
+  Each evening, you will have 30 minutes to work on your estimate during
+  our “study hall”. You will then present your estimate in a short talk at the
+  end of the course.
+
+Daily Rhythm:
+  title: "Tentative Daily Rhythm"
+  intro: "A typical day in the course looks like this:"
+  schedule:
+    - time: "9:00am–9:30am"
+      activity: "Breakfast"
+    - time: "9:30am–12:00pm"
+      activity: "Lectures, hands-on activities, and copious amounts of coffee."
+    - time: "12:00pm–1:00pm"
+      activity: "Lunch"
+    - time: "1:00pm–2:00pm"
+      activity: >
+        Research talk from course faculty and invited guests on their research in quantitative biology.
+        We aim for these talks to be of high pedagogical value, so interruptions and questions are encouraged!
+    - time: "2:00pm–2:30pm"
+      activity: >
+        Breakout session between the students and the speaker.
+        These sessions are perfect venues to ask follow up questions about the talk,
+        but also to learn about the speaker’s career path.
+    - time: "2:30pm–5:30pm"
+      activity: "More lectures, hands-on activities, and copious amounts of coffee."
+    - time: "5:30pm–6:00pm"
+      activity: "Time to work on estimates for final presentation."
+# News: >
+#   Your feedback is really important to us and helps us improve the course for future 
+#   students. Please, before the end of day, fill out this *anonymous* survey.
+#   <br/>
+#   <a href="https://forms.gle/oZo8zAWszrzEyZra6">Google Form PBoC Survey</a>
+
+  

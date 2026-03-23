@@ -1,0 +1,48 @@
+# Instructors and TAs
+- group: "Instructors and TAs"
+  name: "Rob Phillips (Caltech)"
+  title: "Instructor"
+  link: "https://rpgroup.caltech.edu"
+  img: "rob.jpg"
+  other_info:
+    Email Address: "phillips [at] pboc.caltech [dot] edu"
+
+- group: "Instructors and TAs"
+  name: "Hernan Garcia (Berkeley)"
+  title: "Instructor"
+  link: "https://garcialab.berkeley.edu/index.html"
+  img: "hernan.jpg"
+  other_info:
+    Email Address: "hggarcia [at] berkeley [dot] edu"
+
+- group: "Instructors and TAs"
+  name: "Sara Mahdavi (Caltech)"
+  title: "Programming Instructor"
+  img: "sara.jpg"
+  other_info:
+    Email Address: "smhadavi [at] caltech [dot] edu"
+
+# Faculty Speakers
+- group: "Faculty Speakers (1pm each day)"
+  name: "Alexander Grosberg (New York University)"
+  link: "https://as.nyu.edu/faculty/alexander-grosberg.html"
+  title: "Sun, March 8th, 1pm"
+  img: "alexander.jpg"
+
+- group: "Faculty Speakers (1pm each day)"
+  name: "Amy Shyer (Rockefeller University"
+  link: "https://shyerrodrigueslab.com/"
+  title: "Mon, March 9th, 1pm"
+  img: "amy.jpg"
+
+- group: "Faculty Speakers (1pm each day)"
+  name: "Jasna Brujic (New York University)"
+  link: "https://sites.google.com/nyu.edu/jasnabrujic/home"
+  title: "Tues, March 10th, 1pm"
+  img: "jasna.jpg"
+
+- group: "Faculty Speakers (1pm each day)"
+  name: "Avi Flamholz (Rockefeller University)"
+  link: "https://flamholz.github.io/about/"
+  title: "Wed, March 11th, 1pm"
+  img: "avi.jpg"
