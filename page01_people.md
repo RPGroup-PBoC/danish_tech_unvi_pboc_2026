@@ -4,7 +4,7 @@ title: People
 description: About the authors
 img: people.png 
 caption: "T4 Bacteriophage"
-permalink: people
+permalink: /people/
 sidebar: true
 ---
 
