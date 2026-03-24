@@ -2,7 +2,7 @@
 layout: page
 title: Code
 img: code.png # Add image post (optional)
-permalink: code
+permalink: /code/
 sidebar: true
 ---
 
