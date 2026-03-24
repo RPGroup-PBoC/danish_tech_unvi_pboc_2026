@@ -2,7 +2,7 @@
 layout: page
 title: Readings
 img: reading.png 
-permalink: readings
+permalink: /readings/
 caption: "DNA Sequence Chromatogram"
 sidebar: true
 ---
