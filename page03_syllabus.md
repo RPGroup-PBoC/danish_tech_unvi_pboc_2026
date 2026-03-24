@@ -2,7 +2,7 @@
 layout: page
 title: Syllabus
 img: reading.png 
-permalink: syllabus
+permalink: /syllabus/
 caption: "DNA Sequence Chromatogram"
 sidebar: true
 ---
